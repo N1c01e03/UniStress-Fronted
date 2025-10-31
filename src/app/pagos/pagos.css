@@ -24,7 +24,7 @@
   border: 1px solid #000;
   cursor: pointer;
   transition: box-shadow .15s ease, border-color .15s ease;
-  border: 2px solid black;
+  border: 2px solid #bdbdbd;
 }
 .card:hover { box-shadow: 0 1px 10px rgba(0,0,0,.06); }
 
@@ -32,7 +32,7 @@
 .card-head {
   background: #cfeadf;
   padding: 10px 12px;
-  border-bottom: 2px solid #000;       /* línea negra como tu imagen */
+  border-bottom: 2px solid #bdbdbd;       /* línea negra como tu imagen */
   display: flex;
   justify-content: space-between;
   align-items: baseline;
